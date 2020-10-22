@@ -1,6 +1,6 @@
 ### Hi there, I'm Jose Chacin 👋
 
-Full stack developer and mobile software engineer with love for technology and development, with 7 years of experience.
+Full stack developer and mobile software engineer with love for technology and development, with many years of experience.
 Knowledes in:
 - Android Studio, Kotlin, Java
 - Xcode for iOS, Swift, Objective C
