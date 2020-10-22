@@ -9,4 +9,4 @@ Knowledes in:
 
 As a high skilled professional software developer, I always provide high quality and fast service in time, looking for great opportunity to match my skills and experience
 
-- 📫 How to reach me: josechacinmibelli@gmail.com or joc13th@gmail.com
+📫 How to reach me: josechacinmibelli@gmail.com or joc13th@gmail.com
